@@ -8,31 +8,22 @@
 #### Software Architecture
 Software architecture description
 
-#### Installation
+base:             c 基础编程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+data_structure:   数据结构与算法
 
-#### Instructions
+file: 			  linux文件相关操作
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+io: 			   linux IO相关操作
 
-#### Contribution
+ipc： 				linux IPC相关操作
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+minproj:			c项目基础组成
 
+minproj_extern:		extern关键字使用案例
 
-#### Gitee Feature
+parallel:			并发编程（信号，线程使用）
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+process:			进程相关操作
+
+proj:				俄罗斯方块，流媒体广播项目
